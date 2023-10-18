@@ -6,8 +6,8 @@
 - 🖍️  My passions: Snowboarding, pixel art, 3d modeling and more...
 
 #Contact
-LinkedIn: https://www.linkedin.com/in/andrei-tudor-b%C3%AEc%C3%AEin
-Email: andrei.bacain@outlook.com
+- LinkedIn: https://www.linkedin.com/in/andrei-tudor-b%C3%AEc%C3%AEin
+- Email: andrei.bacain@outlook.com
 
 #Languages 
 ![c-sharp-c 228x256](https://github.com/SleepBeary/SleepBeary/assets/89601695/4ac5d73c-2181-42ca-88f5-509cc462354a) ![typescript-icon 256x256](https://github.com/SleepBeary/SleepBeary/assets/89601695/58b06894-3dfb-4b7a-9e8b-75f031640490)  ![javascript-js 256x256](https://github.com/SleepBeary/SleepBeary/assets/89601695/b29254df-e82c-4b67-a8b7-71f149b19585) ![kotlin-original 256x256](https://github.com/SleepBeary/SleepBeary/assets/89601695/913c3729-f33f-4bd3-87b3-e776e8b62c7d) ![html](https://github.com/SleepBeary/SleepBeary/assets/89601695/1a4798b8-db33-41e8-9d45-aadfb8a40eb2) ![css](https://github.com/SleepBeary/SleepBeary/assets/89601695/4e522221-1232-41c7-a0fd-da71b8c1a281)
