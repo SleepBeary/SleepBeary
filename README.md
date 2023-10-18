@@ -6,6 +6,7 @@
 - 🖍️  My passions: Snowboarding, pixel art, 3d modeling and more...
 
 <h1>Contact 📞</h1>
+
 - LinkedIn: https://www.linkedin.com/in/andrei-tudor-b%C3%AEc%C3%AEin
 - Email: andrei.bacain@outlook.com
 
