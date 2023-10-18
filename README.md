@@ -5,11 +5,11 @@
 - 🔭  I'm learning Cloud and React for now
 - 🖍️  My passions: Snowboarding, pixel art, 3d modeling and more...
 
-<h1>Contact</h1>
+<h1>Contact 📞</h1>
 - LinkedIn: https://www.linkedin.com/in/andrei-tudor-b%C3%AEc%C3%AEin
 - Email: andrei.bacain@outlook.com
 
-<h1>Languages</h1> 
+<h1>Languages 📙</h1> 
 
 <img src="https://github.com/SleepBeary/SleepBeary/assets/89601695/4ac5d73c-2181-42ca-88f5-509cc462354a" width="32" height="32">
 <img src="https://github.com/SleepBeary/SleepBeary/assets/89601695/58b06894-3dfb-4b7a-9e8b-75f031640490" width="32" height="32">
@@ -18,7 +18,7 @@
 <img src="https://github.com/SleepBeary/SleepBeary/assets/89601695/1a4798b8-db33-41e8-9d45-aadfb8a40eb2" width="32" height="32">
 <img src="https://github.com/SleepBeary/SleepBeary/assets/89601695/4e522221-1232-41c7-a0fd-da71b8c1a281" width="32" height="32">
 
-<h1>Technology</h1>
+<h1>Technology 🤖</h1>
 
 <img src="https://github.com/SleepBeary/SleepBeary/assets/89601695/76e4e758-8f64-4c1b-a5a9-f264b5bb1a05" width="32" height="32">
 <img src="https://github.com/SleepBeary/SleepBeary/assets/89601695/9156c927-4b81-4724-8b72-36bcbaea2e0d" width="32" height="32">
