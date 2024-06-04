@@ -2,7 +2,7 @@
 
 - 💼  I'm currently working as a web developer for Softserve
 - 🖥️  I'm part of a team of friends who create games in our free time
-- 🔭  I'm learning Cloud and React for now
+- 🔭  I'm learning Azure and React for now
 - 🖍️  My passions: Snowboarding, pixel art, 3d modeling and more...
 
 <h1>Contact 📞</h1>
